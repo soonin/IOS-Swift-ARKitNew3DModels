@@ -285,6 +285,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C57K65Z4PC;
 				INFOPLIST_FILE = "IOS-Swift-ARKitNew3DModels/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +303,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C57K65Z4PC;
 				INFOPLIST_FILE = "IOS-Swift-ARKitNew3DModels/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
